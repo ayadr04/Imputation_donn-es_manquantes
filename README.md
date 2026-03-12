@@ -69,8 +69,6 @@ L'application sera disponible sur `http://localhost:5173`
 | **CSS-in-JS** | Styles inline |
 | **Google Fonts** | Typographie (Fraunces + DM Mono) |
 
-> ⚡ Zéro dépendance externe pour les calculs — tous les algorithmes sont implémentés manuellement.
-
 ---
 
 ## 📁 Structure du projet
